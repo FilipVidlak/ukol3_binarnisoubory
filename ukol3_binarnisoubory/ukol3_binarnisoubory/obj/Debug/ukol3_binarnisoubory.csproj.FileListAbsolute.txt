@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\obj\Debug\ukol3_binarnisoubory.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\obj\Debug\ukol3_binarnisoubory.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\obj\Debug\ukol3_binarnisoubory.Form1.resources
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\obj\Debug\ukol3_binarnisoubory.Properties.Resources.resources
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\obj\Debug\ukol3_binarnisoubory.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\obj\Debug\ukol3_binarnisoubory.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\bin\Debug\ukol3_binarnisoubory.exe.config
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\bin\Debug\ukol3_binarnisoubory.exe
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\bin\Debug\ukol3_binarnisoubory.pdb
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\obj\Debug\ukol3_binarnisoubory.exe
+C:\Users\filip\source\repos\ukol3_binarnisoubory\ukol3_binarnisoubory\obj\Debug\ukol3_binarnisoubory.pdb
